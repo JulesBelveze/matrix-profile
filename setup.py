@@ -13,7 +13,7 @@ from setuptools import setup
 
 setup(
     name='matrix_profile',
-    version='1.5.0',
+    version='2.0.0',
     author='Javid Lakha',
     author_email='javid.lakha@outlook.com',
     url='https://github.com/javidlakha/matrix_profile',
